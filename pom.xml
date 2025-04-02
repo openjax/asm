@@ -30,14 +30,6 @@
   <description>
     Utilities using ASM.
   </description>
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.openjax.xml</groupId>
-        <artifactId>xml-maven-plugin</artifactId>
-      </plugin>
-    </plugins>
-  </build>
   <dependencies>
     <dependency>
       <groupId>org.libj</groupId>
